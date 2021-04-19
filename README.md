@@ -7,6 +7,8 @@ I'm an aspiring PHP developer, constantly looking for new challenges and ways to
 - <img src="https://camo.githubusercontent.com/63f8942041c20acd922fef42fac8afe7bcbb3c8160eb211b46770f3d0fd0bd05/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c61726176656c2e737667" width="20"/> Laravel
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="20"/> TypeScript
 - <img src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" width="20"/> HTML & CSS
+- <img src="https://camo.githubusercontent.com/9c5e7333f1c4ac09c07988ceda17508df89b6830fe0b8fb416c4be19c5841578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7675652e737667" width="20"/> VueJS
+
 
 #### Skills
 - Unit & Integration testing
